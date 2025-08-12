@@ -1,2 +1,2 @@
-# Github-repo1
-First github repositary
+# CPP-tasks-projects 
+Daily log of small projects and tasks in c++
